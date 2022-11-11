@@ -1,0 +1,3 @@
+{"level":30,"time":"2022-11-09T10:52:03.534Z","pid":3648,"hostname":"Leonard","msg":"Listening on 49706"}
+{"level":30,"time":"2022-11-09T10:52:03.716Z","pid":3648,"hostname":"Leonard","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-11-09T10:52:03.717Z","pid":3648,"hostname":"Leonard","msg":"End of node method closeAllBrowsers"}

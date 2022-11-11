@@ -1,0 +1,21 @@
+1667991214857	geckodriver	INFO	Listening on 127.0.0.1:49741
+1667991217914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "c:\\Users\\phung\\AppData\\Local\\robocorp\\temp\\4d65822107fceea6\\rust_mozprofilerWZNc4"
+1667991218542	Marionette	INFO	Marionette enabled
+1667991218550	Marionette	INFO	Listening on port 49755
+Read port: 49755
+WebDriver BiDi listening on ws://127.0.0.1:49742
+1667991218729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\Users\\phung\\AppData\\Local\\robocorp\\temp\\4d65822107fceea6\\rust_mozprofilerWZNc4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49742/devtools/browser/94873f45-21cb-4cc8-8445-e9f331097f8a
+1667991241875	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241883	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241917	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241943	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241964	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241976	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991241985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667991246653	Marionette	INFO	Stopped listening on port 49755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

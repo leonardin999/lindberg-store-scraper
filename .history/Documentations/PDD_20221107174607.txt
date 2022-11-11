@@ -1,0 +1,15 @@
+1. go to website: https://www.zillow.com/professionals/real-estate-agent-reviews/denver-co/
+2. go to each agent to get profile of realtor.
+3. go to google search str = {realtor_name} + 'realtor mobile'
+--> click the 1st link (realtor.com)
+
+3.1. get phone number : document.querySelectorAll('.preview-contact-number')[2].innerText
+extract number text: [(][\d]{3}[)][ ]?[\d]{3}-[\d]{4}
+
+
+4.imformation get:
+- Name
+- Email
+- Phone Number ()
+- Social Media:
+- Company
